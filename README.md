@@ -1,6 +1,6 @@
 <!-- Анимированная заставка (ч/б) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Меня+зовут+Wingelshteyn;Добро+пожаловать+в+мой+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=My+name+is+Wingelshteyn;Welcome+to+my+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <!-- Ч/б gif -->
