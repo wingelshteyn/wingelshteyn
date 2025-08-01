@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast who
 - 💻 Specializing in [Data Science, DevOps]
 - 🎯 Passionate about creating efficient, scalable, and user-friendly solutions
 - 🌱 Currently learning [Camunda, Machine Learning]
-- 📫 Reach me at [wingelshteyn@gmail.com]
+- 📫 Reach me at [wingelshteyn@gmail.com, https://gitlab.com/wingelshteyn]
 
 ## 🛠️ My Tech Stack
 
