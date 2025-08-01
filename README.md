@@ -1,3 +1,7 @@
+<div style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 100%); height: 10px;"></div>
+
+![Dinosaur Game](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q2ZjZiZDU4NzVhYzVhZmM4N2Q2YzVhYzVhZmM4N2Q2YzVhYzVhZmM4N2Q2&ep=v1_gifs_search&ct=g/3o7TKsQ8ZQb6ZQb6ZQ/giphy.gif)
+
 ## 🚀 About Me
 
 - 🌍 Based in Russia
@@ -42,3 +46,4 @@ Another exciting project with a short overview of its features and tech stack.
 
 - [GitLab](https://gitlab.com/wingelshteyn)
 - [Email](mailto:wingelshteyn@gmail.com)
+<div style="background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 50%, rgba(0,0,0,0) 100%); height: 10px;"></div>
