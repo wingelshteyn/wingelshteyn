@@ -19,6 +19,12 @@
 
 ---
 
+## 📋 Statistics
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=wingelshteyn)](https://stackoverflow.com/users/6558042/omid-nikrah) 
+
+---
+
 ## 🔗 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wingelshteyn)
