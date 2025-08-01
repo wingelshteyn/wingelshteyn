@@ -10,6 +10,15 @@
 
 ---
 
+## 📊 GitHub statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=graywhite&count_private=true&hide_title=true" />
+  <img src="https://streak-stats.demolab.com?user=wingelshteyn&theme=graywhite&hide_border=true" />
+</p>
+
+---
+
 ## 🔗 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wingelshteyn)
@@ -28,11 +37,3 @@
 
 ---
 
-## 📊 GitHub statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=graywhite&count_private=true&hide_title=true" />
-  <img src="https://streak-stats.demolab.com?user=wingelshteyn&theme=graywhite&hide_border=true" />
-</p>
-
----
