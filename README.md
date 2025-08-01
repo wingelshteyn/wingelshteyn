@@ -32,11 +32,6 @@
 
 ---
 
-### 🔥 GitHub Streak 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wingelshteyn)](https://git.io/streak-stats)
-
----
-
 ## 📊 GitHub статистика
 
 
@@ -58,6 +53,11 @@
 ## 📈 График активности
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wingelshteyn&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🔥 GitHub Streak 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wingelshteyn)](https://git.io/streak-stats)
 
 ---
 
