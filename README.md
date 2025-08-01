@@ -10,7 +10,7 @@
 
 ---
 
-## 🔗 Контакты
+## 🔗 Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wingelshteyn)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wingelshteyn@gmail.com)
@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Навыки и стек
+## 🛠️ Skills and stack
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊 GitHub statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=graywhite&count_private=true&hide_title=true" />
