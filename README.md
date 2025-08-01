@@ -5,12 +5,14 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 🚀 Обо мне
 
-- 🌱 Сейчас изучаю: **Camunda**, **FastAPI**
-- 🧠 Осваиваю: **Open Source** и **contributions**
-- 💼 Готов к интересным предложениям и командам
-
+- 🌍 Based in Russia
+- 💻 Specializing in Data Science, DevOps
+- 🎯 Passionate about creating efficient, scalable, and user-friendly solutions
+- 🌱 Currently learning Camunda, Machine Learning
+- 📫 Reach me at [wingelshteyn@gmail.com](mailto:wingelshteyn@gmail.com), [GitLab](https://gitlab.com/wingelshteyn)
+  
 ---
 
 ## 🔗 Контакты
