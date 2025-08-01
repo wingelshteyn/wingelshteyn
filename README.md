@@ -59,11 +59,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/wingelshteyn/wingelshteyn/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🎢 3D календарь коммитов
 
@@ -82,7 +77,7 @@
 
 ## 📌 Закреплённые проекты
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&repo=название_проекта_1&theme=radical)](https://github.com/wingelshteyn/название_проекта_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&Voice_Assistent&theme=radical)](https://github.com/wingelshteyn/Voice_Assistent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&repo=название_проекта_2&theme=radical)](https://github.com/wingelshteyn/название_проекта_2)
 
 ---
