@@ -77,7 +77,7 @@
 
 ## 📌 Закреплённые проекты
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&Voice_Assistent&theme=radical)](https://github.com/wingelshteyn/Voice_Assistent)
+[![Readme Card]](https://github.com/wingelshteyn/Voice_Assistent)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&repo=название_проекта_2&theme=radical)](https://github.com/wingelshteyn/название_проекта_2)
 
 ---
