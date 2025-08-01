@@ -1,51 +1,70 @@
-<!-- Шапка профиля -->
-<div id="header" align="center">
-  <h1>👋 Привет, я wingelshteyn</h1>
-  <p>Frontend‑разработчик / Python‑энтузиаст / Open‑Source contributor</p>
-  <div>
-    <a href="https://linkedin.com/in/ваш‑профиль"><img src="https://img.shields.io/badge/LinkedIn‑blue?style=for‑the‑badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/ваш‑профиль"><img src="https://img.shields.io/badge/Twitter‑skyblue?style=for‑the‑badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-    <a href="https://t.me/ваш_telegram"><img src="https://img.shields.io/badge/Telegram‑blue?style=for‑the‑badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  </div>
-</div>
+<!-- Приветствие -->
+<h1 align="center">Привет, я wingelshteyn 👋</h1>
+<p align="center">Frontend | Python | Open Source | Визуализация данных</p>
+
+<!-- Анимированная заставка -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Добро+пожаловать+на+мой+GitHub!;Я+люблю+кодить+и+учиться+новому;Пишу+на+Python+и+JavaScript" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👤 О себе
-- Web‑разработчик с акцентом на JavaScript и React  
-- Занимаюсь автоматизацией данных на Python и Pandas  
-- Люблю участвовать в Open‑Source и pet‑проектах  
-- Сейчас в поиске работы в IT сфере
+### 🧠 Обо мне
+
+- 💼 В поиске проектов и задач, где могу применить знания React и Python  
+- 🧰 Люблю чистый код, красивые интерфейсы и автоматизацию  
+- 🧪 Участвую в pet-проектах и Open Source  
+- 📚 Вечно изучаю что-то новое: AI, Web3, CI/CD...
 
 ---
 
-## 🧰 Навыки и технологии
+### 🛠️ Навыки и технологии
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
 </div>
 
 ---
 
-## 🚀 Проекты
-- **[Project‑A]** — SPA‑приложение на React с API‑подключением  
-- **[Project‑B]** — Python‑скрипт для анализа CSV и упрощённой визуализации данных  
-- **[Project‑C]** — Pet‑проект: автоматизированный бот для Telegram
+### 🚀 Проекты
+
+| Название | Описание | Технологии |
+|----------|----------|------------|
+| [📘 Weather App](#) | Прогноз погоды на React с OpenWeather API | React, Axios, CSS |
+| [📊 CSV Analyzer](#) | Python-скрипт для анализа таблиц и визуализации | Python, Pandas, Matplotlib |
+| [🤖 Telegram Bot](#) | Бот для напоминаний и напоминаний | Python, aiogram |
 
 ---
 
-## 📊 GitHub‑статистика
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=radical" alt="GitHub Streak"/>
-</div>
+### 🔥 3D‑календарь коммитов
+
+> Генерируется при помощи `gitHub-profile-3d-contrib`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wingelshteyn/wingelshteyn/output/github-contribution-grid-snake.svg" alt="3D GitHub Calendar" />
+</p>
+
 
 ---
 
-## 📫 Контакты
-- ✉️ Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/ваш‑профиль](https://linkedin.com/in/ваш‑профиль)  
-- Telegram: [@ваш_telegram](https://t.me/ваш_telegram)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 🐍 Змейка коммитов
+
+> Ещё одна анимированная фишка из статей Skillbox
+
+```md
+<!-- Змейка коммитов -->
+![snake gif](https://github.com/wingelshteyn/wingelshteyn/blob/output/github-contribution-grid-snake.svg)
