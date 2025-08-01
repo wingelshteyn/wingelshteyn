@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFAF&width=800&lines=Меня+зовут+Wingelshteyn;Добро+пожаловать+в+мой+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="Dino Game GIF" />
+</p>
+
 ---
 
 ## 🚀 Обо мне
@@ -60,13 +64,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wingelshteyn)](https://git.io/streak-stats)
 
 ---
-
-## 🏆 Трофеи GitHub
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=wingelshteyn&theme=gruvbox&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 
 ## 🎢 3D календарь коммитов
 
