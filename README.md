@@ -1,64 +1,51 @@
-<style>
-.fade-hr {
-  border: 0;
-  height: 1px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
-}
-</style>
-
-<div style="text-align: center;">
-  <img src="https://media.giphy.com/media/rqXk2WsgiDGHoHMU8l/giphy.gif" alt="Dinosaur Game" style="display: block; margin: 0 auto;">
-  <hr class="fade-hr">
-  <h1>Hello, I'm Wingelshteyn! 👋</h1>
-  <hr class="fade-hr">
+<!-- Шапка профиля -->
+<div id="header" align="center">
+  <h1>👋 Привет, я wingelshteyn</h1>
+  <p>Frontend‑разработчик / Python‑энтузиаст / Open‑Source contributor</p>
+  <div>
+    <a href="https://linkedin.com/in/ваш‑профиль"><img src="https://img.shields.io/badge/LinkedIn‑blue?style=for‑the‑badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://twitter.com/ваш‑профиль"><img src="https://img.shields.io/badge/Twitter‑skyblue?style=for‑the‑badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+    <a href="https://t.me/ваш_telegram"><img src="https://img.shields.io/badge/Telegram‑blue?style=for‑the‑badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  </div>
 </div>
 
-## 🚀 About Me
+---
 
-- 🌍 Based in Russia
-- 💻 Specializing in Data Science, DevOps
-- 🎯 Passionate about creating efficient, scalable, and user-friendly solutions
-- 🌱 Currently learning Camunda, Machine Learning
-- 📫 Reach me at [wingelshteyn@gmail.com](mailto:wingelshteyn@gmail.com), [GitLab](https://gitlab.com/wingelshteyn)
+## 👤 О себе
+- Web‑разработчик с акцентом на JavaScript и React  
+- Занимаюсь автоматизацией данных на Python и Pandas  
+- Люблю участвовать в Open‑Source и pet‑проектах  
+- Сейчас в поиске работы в IT сфере
 
-## 🛠️ My Tech Stack
+---
 
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: FastAPI, Flask
-- **Tools**: Docker, Git, Camunda
+## 🧰 Навыки и технологии
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
+</div>
 
-## 🏆 Badges & Metrics
+---
 
-| Значок | Описание |
-|--------|----------|
-| <image-card alt="Profile Views" src="https://komarev.com/ghpvc/?username=wingelshteyn&color=blue" ></image-card> | Количество просмотров профиля |
-| <image-card alt="GitHub Followers" src="https://img.shields.io/github/followers/wingelshteyn?style=social" ></image-card> | Количество подписчиков на GitHub |
-| <image-card alt="GitHub Stars" src="https://img.shields.io/github/stars/wingelshteyn?affiliations=OWNER%2CCOLLABORATOR&style=social" ></image-card> | Общее количество звезд на ваших репозиториях |
-| [<image-card alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python" ></image-card>](https://www.python.org/) | Используемая версия Python |
-| [<image-card alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0.68%2B-green?logo=fastapi" ></image-card>](https://fastapi.tiangolo.com/) | Используемый фреймворк FastAPI |
-| [<image-card alt="Docker" src="https://img.shields.io/badge/Docker-20.10%2B-blue?logo=docker" ></image-card>](https://www.docker.com/) | Используемая версия Docker |
-| [<image-card alt="Camunda" src="https://img.shields.io/badge/Camunda-8.0%2B-orange?logo=camunda" ></image-card>](https://www.camunda.com/) | Используемая версия Camunda |
+## 🚀 Проекты
+- **[Project‑A]** — SPA‑приложение на React с API‑подключением  
+- **[Project‑B]** — Python‑скрипт для анализа CSV и упрощённой визуализации данных  
+- **[Project‑C]** — Pet‑проект: автоматизированный бот для Telegram
 
-## 🌟 Featured Projects
+---
 
-### [Project Name 1](https://github.com/wingelshteyn/project1)
-A brief description of your project, its purpose, and the technologies used. Highlight what makes it special!
+## 📊 GitHub‑статистика
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=radical" alt="GitHub Streak"/>
+</div>
 
-### [Project Name 2](https://github.com/wingelshteyn/project2)
-Another exciting project with a short overview of its features and tech stack.
+---
 
-## 📊 GitHub Stats
-
-| Значок | Описание |
-|--------|----------|
-| <image-card alt="Wingelshteyn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=radical" ></image-card> | Общая статистика GitHub |
-| <image-card alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingelshteyn&layout=compact&theme=radical" ></image-card> | Наиболее используемые языки программирования |
-| <image-card alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=radical" ></image-card> | Статистика активности (серия коммитов) |
-| <image-card alt="Trophy Stats" src="https://github-profile-trophy.vercel.app/?username=wingelshteyn&theme=radical" ></image-card> | Трофеи профиля GitHub |
-| <image-card alt="Activity Graph" src="https://github-readme-activity-graph.herokuapp.com/?username=wingelshteyn" ></image-card> | График активности на GitHub |
-| <image-card alt="3D Contributions" src="https://github-profile-3d-contrib.vercel.app/?username=wingelshteyn" ></image-card> | 3D-график вкладов |
-
-## 🤝 Let's Connect!
-
-- [GitLab](https://gitlab.com/wingelshteyn)
-- [Email](mailto:wingelshteyn@gmail.com)
+## 📫 Контакты
+- ✉️ Email: your.email@example.com  
+- LinkedIn: [linkedin.com/in/ваш‑профиль](https://linkedin.com/in/ваш‑профиль)  
+- Telegram: [@ваш_telegram](https://t.me/ваш_telegram)
