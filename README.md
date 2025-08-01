@@ -30,7 +30,13 @@
 
 ---
 
+### 🔥 GitHub Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anuraghazra&theme=dark)](https://git.io/streak-stats)
+
+---
+
 ## 📊 GitHub статистика
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=radical&count_private=true&hide_title=true" />
