@@ -11,7 +11,6 @@
 - 💻 Specializing in Data Science, DevOps
 - 🎯 Passionate about creating efficient, scalable, and user-friendly solutions
 - 🌱 Currently learning Camunda, Machine Learning
-- 📫 Reach me at [wingelshteyn@gmail.com](mailto:wingelshteyn@gmail.com), [GitLab](https://gitlab.com/wingelshteyn)
   
 ---
 
@@ -19,6 +18,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wingelshteyn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wingelshteyn@gmail.com)
+[![GitLab](https://gitlab.com/wingelshteyn)
 
 ---
 
