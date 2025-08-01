@@ -36,10 +36,9 @@ Another exciting project with a short overview of its features and tech stack.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wingelshteyn&layout=compact&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=radical)
 ![Trophy Stats](https://github-profile-trophy.vercel.app/?username=wingelshteyn&theme=radical)
+![3D Commit Calendar](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&repo=wingelshteyn&show_owner=true&theme=radical)
 
 ## 🤝 Let's Connect!
 
 - [GitLab](https://gitlab.com/wingelshteyn)
 - [Email](mailto:wingelshteyn@gmail.com)
-
-Thanks for visiting my profile! Feel free to explore my repositories, star ⭐ my projects, or reach out to collaborate on something awesome! 😄
