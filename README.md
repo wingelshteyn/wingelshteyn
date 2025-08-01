@@ -73,13 +73,3 @@
 ![Metrics](https://metrics.lecoq.io/wingelshteyn?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&repositories.affiliations=owner&isocalendar=1&languages=1&activity=1&introduction=1&lines=1&habits=1&stargazers=1&followup=1&config.timezone=Europe%2FMoscow)
 
 ---
-
-
-## 📌 Закреплённые проекты
-
-[![Readme Card]](https://github.com/wingelshteyn/Voice_Assistent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wingelshteyn&repo=название_проекта_2&theme=radical)](https://github.com/wingelshteyn/название_проекта_2)
-
----
-
-
