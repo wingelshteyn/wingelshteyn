@@ -9,15 +9,6 @@
 
 ---
 
-## 🚀 Обо мне
-
-- 🌍 Based in Russia
-- 💻 Specializing in Data Science, DevOps
-- 🎯 Passionate about creating efficient, scalable, and user-friendly solutions
-- 🌱 Currently learning Camunda, Machine Learning
-  
----
-
 ## 🔗 Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wingelshteyn)
@@ -46,22 +37,9 @@
 
 ---
 
-## 🌐 Языки, используемые в репозиториях
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wingelshteyn&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📈 График активности
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wingelshteyn&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🔥 GitHub Streak 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wingelshteyn)](https://git.io/streak-stats)
 
 ---
 
