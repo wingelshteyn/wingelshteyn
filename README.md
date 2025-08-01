@@ -30,8 +30,8 @@
 
 ---
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wingelshteyn&theme=dark)](https://git.io/streak-stats)
+### 🔥 GitHub Streak 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wingelshteyn)](https://git.io/streak-stats)
 
 ---
 
