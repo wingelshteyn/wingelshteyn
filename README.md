@@ -10,18 +10,12 @@
 
 ---
 
-## 📊 GitHub statistics
+## 📋 GitHub statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wingelshteyn&show_icons=true&theme=graywhite&count_private=true&hide_title=true" />
   <img src="https://streak-stats.demolab.com?user=wingelshteyn&theme=graywhite&hide_border=true" />
 </p>
-
----
-
-## 📋 Statistics
-
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=wingelshteyn)](https://stackoverflow.com/users/6558042/omid-nikrah) 
 
 ---
 
