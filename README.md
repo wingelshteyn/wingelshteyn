@@ -36,18 +36,3 @@
 </p>
 
 ---
-
-## 📈 График активности
-
-[![Активность](https://github-readme-activity-graph.vercel.app/graph?username=wingelshteyn&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎢 3D календарь коммитов
-
-[![3D Contribution Calendar](https://github.com/wingelshteyn/wingelshteyn/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/yoshi389111/github-profile-3d-contrib)
-
-> 🗂 Для работы добавьте папку `.github/profile` и положите туда файл `profile-3d-contrib/profile-night-rainbow.svg`.  
-> 🔗 Генератор: [github.com/yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-
----
